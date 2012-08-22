@@ -9,7 +9,7 @@ function testInputForm(){
 	alert("Testing Input form will work");
 	
 	var name = "Jack";
-	var email = "jack@vayoungs.us";
+	var email = "jyoung@mvixusa.com";
 	var username = "jyoung";
 	
 	var names = new Array("John", "Mark", "Luke", "Sammy");
